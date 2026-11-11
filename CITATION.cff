@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "CrossRhythm: Spectro-Temporal Decoding of Motor Imagery EEG Across Sessions"
+authors:
+  - family-names: Urgun
+    given-names: Dogan
+    orcid: "https://orcid.org/0000-0002-1616-3838"
+    affiliation: "Karabük University"
+repository-code: "https://github.com/DoganUrgun/CrossRhythm"
+license: MIT
+type: software

@@ -1,0 +1,11 @@
+# Downloaded and prepared EEG data (created by scripts/prepare_data.py)
+data/
+
+# Outputs of training and evaluation
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
