@@ -311,216 +311,216 @@
       "name": "S1_1A.cnt",
       "subject": 1,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 9947274,
-      "sha256": "1c168c3b3f6540d0378f73636b6a3c7d499b918fabeb213b07ccf428a1159b24"
+      "sha256": "1c168c3b3f6540d0378f73636b6a3c7d499b918fabeb213b07ccf428a1159b24",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S1_1B.cnt",
       "subject": 1,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 13962130,
-      "sha256": "59af85a62eb7b15960f83feea307cf09838e2a9c1727f22c623733f64d77bf7b"
+      "sha256": "59af85a62eb7b15960f83feea307cf09838e2a9c1727f22c623733f64d77bf7b",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S1_2A.cnt",
       "subject": 1,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 8269419,
-      "sha256": "4a2ec477dec89d4dc790a2e1c1c876bf3086780884f61f31c75302788242b2b2"
+      "sha256": "4a2ec477dec89d4dc790a2e1c1c876bf3086780884f61f31c75302788242b2b2",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S1_2B.cnt",
       "subject": 1,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 9679019,
-      "sha256": "5fe1cb81b4049b94f40da2f48cf3590a68f9d4a559a70847d226ae2523acbd0c"
+      "sha256": "5fe1cb81b4049b94f40da2f48cf3590a68f9d4a559a70847d226ae2523acbd0c",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S1_3A.cnt",
       "subject": 1,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7650124,
-      "sha256": "15449cd6b3c3ed943143049e0827718a7a4ae256b40d97c35cfb46250def8d20"
+      "sha256": "15449cd6b3c3ed943143049e0827718a7a4ae256b40d97c35cfb46250def8d20",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S1_3B.cnt",
       "subject": 1,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7425202,
-      "sha256": "5cebd39988cb71502d513408b89043ee266396698890c41d3e104cf38b11043f"
+      "sha256": "5cebd39988cb71502d513408b89043ee266396698890c41d3e104cf38b11043f",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S2_1A.cnt",
       "subject": 2,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7467328,
-      "sha256": "5319b416bcff2c5196f15b35312d1c4f8066293240ae6c998167dc6f4390478a"
+      "sha256": "5319b416bcff2c5196f15b35312d1c4f8066293240ae6c998167dc6f4390478a",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S2_1B.cnt",
       "subject": 2,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7100646,
-      "sha256": "c74d78332437e8db1bf94b47872968f047d83c8294e8c50a6c47bd7c6e68c59b"
+      "sha256": "c74d78332437e8db1bf94b47872968f047d83c8294e8c50a6c47bd7c6e68c59b",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S2_2A.cnt",
       "subject": 2,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7032147,
-      "sha256": "5d40b0cb1255fb08cbfdce8d92b5e02be43b620a04095dbf24b862a43c2f77ac"
+      "sha256": "5d40b0cb1255fb08cbfdce8d92b5e02be43b620a04095dbf24b862a43c2f77ac",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S2_2B.cnt",
       "subject": 2,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 5794688,
-      "sha256": "c7473f4bbe6da9c67f27d78024a1910b70e9883fa8abf02f8dc31194e8efb9b5"
+      "sha256": "c7473f4bbe6da9c67f27d78024a1910b70e9883fa8abf02f8dc31194e8efb9b5",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S2_3A.cnt",
       "subject": 2,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7008768,
-      "sha256": "7541c5d4c7086358c20f8b1922802c6493b9c2efde2a7d88624508177b4ff058"
+      "sha256": "7541c5d4c7086358c20f8b1922802c6493b9c2efde2a7d88624508177b4ff058",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S2_3B.cnt",
       "subject": 2,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7151168,
-      "sha256": "97524c12156932f488e563d294942b41449a35c034b2bead8d792507d4e2e6b5"
+      "sha256": "97524c12156932f488e563d294942b41449a35c034b2bead8d792507d4e2e6b5",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S3_1A.cnt",
       "subject": 3,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7221324,
-      "sha256": "a5b9dc9bf365c7d9d4b572ea55dbdd6e988a12f2ba023a46d8fe998b9062051a"
+      "sha256": "a5b9dc9bf365c7d9d4b572ea55dbdd6e988a12f2ba023a46d8fe998b9062051a",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S3_1B.cnt",
       "subject": 3,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7120730,
-      "sha256": "1ccb4c1fb66acdc0e09b58e19b1bad7fb9548ed102e6f4e46c6cbc22c4767c6d"
+      "sha256": "1ccb4c1fb66acdc0e09b58e19b1bad7fb9548ed102e6f4e46c6cbc22c4767c6d",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S3_2A.cnt",
       "subject": 3,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7437872,
-      "sha256": "f1ec815cd1970199f4b381833043f9491b167d28e94aee3c1fa0b39cca62bfdd"
+      "sha256": "f1ec815cd1970199f4b381833043f9491b167d28e94aee3c1fa0b39cca62bfdd",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S3_2B.cnt",
       "subject": 3,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 8727941,
-      "sha256": "ee99b25afc7a82aa2fffd56ad92f15baba381b4ffc98517fd857367729aea613"
+      "sha256": "ee99b25afc7a82aa2fffd56ad92f15baba381b4ffc98517fd857367729aea613",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S3_3A.cnt",
       "subject": 3,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7481956,
-      "sha256": "38bd4aa23683ac91004b6ed13ac12e43bfa769e1694e333d040d7d951b911c61"
+      "sha256": "38bd4aa23683ac91004b6ed13ac12e43bfa769e1694e333d040d7d951b911c61",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S3_3B.cnt",
       "subject": 3,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7304863,
-      "sha256": "2ca558e913b9832afc26e792b10555b4f979a63ec1affb593ef3808cfa1a8c19"
+      "sha256": "2ca558e913b9832afc26e792b10555b4f979a63ec1affb593ef3808cfa1a8c19",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S4_1A.cnt",
       "subject": 4,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 5988605,
-      "sha256": "8dfa893421f224385b5a610466ad9aee6689114c6afeaa4a7459ec5b17022575"
+      "sha256": "8dfa893421f224385b5a610466ad9aee6689114c6afeaa4a7459ec5b17022575",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S4_1B.cnt",
       "subject": 4,
       "session": 1,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7134604,
-      "sha256": "5d776f0adae7a84b897fc719554f2ed8f4c7322a665e7e6212daaf53c62d313b"
+      "sha256": "5d776f0adae7a84b897fc719554f2ed8f4c7322a665e7e6212daaf53c62d313b",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S4_2A.cnt",
       "subject": 4,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7078791,
-      "sha256": "7a50117945a3ac16324c6758307040544baf8c2471c9a82e41177c80e3a1cdc4"
+      "sha256": "7a50117945a3ac16324c6758307040544baf8c2471c9a82e41177c80e3a1cdc4",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S4_2B.cnt",
       "subject": 4,
       "session": 2,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 6976768,
-      "sha256": "bea83672607fb0ba5226d1b02d79dd497dd027883ea9a93752a87af60e852890"
+      "sha256": "bea83672607fb0ba5226d1b02d79dd497dd027883ea9a93752a87af60e852890",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S4_3A.cnt",
       "subject": 4,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 6899705,
-      "sha256": "87c6665c945f624baeff2c18cccd7f8c56fbf278b0b2c3a76969b4dacb39e28e"
+      "sha256": "87c6665c945f624baeff2c18cccd7f8c56fbf278b0b2c3a76969b4dacb39e28e",
+      "archive": "data.zip"
     },
     {
       "dataset": "zhou2016",
       "name": "S4_3B.cnt",
       "subject": 4,
       "session": 3,
-      "url": "https://ndownloader.figshare.com/files/3662952",
       "bytes": 7133853,
-      "sha256": "813ee0c01daeb0994d98b134dbaa8996547e9f7759f975fe3d6243f2b4562435"
+      "sha256": "813ee0c01daeb0994d98b134dbaa8996547e9f7759f975fe3d6243f2b4562435",
+      "archive": "data.zip"
     }
   ],
   "archives": [

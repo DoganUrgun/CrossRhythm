@@ -52,10 +52,10 @@ def batches(n, batch_size, device, shuffle):
 
 
 def random_time_shift(x, max_shift):
-    """Shift each trial by a random number of samples with reflection at the borders.
+    """Optional augmentation: shift each trial by up to `max_shift` samples (reflected at the borders).
 
-    Offsets are drawn even when `max_shift` is zero, so the random-number sequence
-    of a run does not depend on this setting.
+    The offsets are always drawn, so the random-number sequence of a training run is
+    the same whether or not the augmentation is enabled (it is disabled by default).
     """
     offsets = torch.randint(-max_shift, max_shift + 1, (len(x),), device=x.device)
     if max_shift == 0:
